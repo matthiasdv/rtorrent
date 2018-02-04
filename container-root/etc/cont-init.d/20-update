@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv bash
+
+# Update ruTorrent
+cd /opt/rutorrent && git pull
