@@ -1,4 +1,4 @@
-FROM kelvinchen/torrent-utils:latest
+FROM matthiasdv/torrent-utils:0.0.1
 
 # For rtorrent
 ENV TERM=xterm
